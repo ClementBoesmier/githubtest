@@ -29,5 +29,5 @@ void loop() {
     matrix.print("LAB");
     matrix.setCursor(0, 16);
     matrix.setTextColor(matrix.Color333(7,0,0));
-    matrix.print("Ouest");
+    matrix.print("Ouest!");
 }
